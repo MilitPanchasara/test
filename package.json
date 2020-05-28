@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MilitPanchasara/trial.git"
+    "url": "git+https://github.com/MilitPanchasara/test.git"
   },
   "author": "Milit",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MilitPanchasara/trial/issues"
   },
-  "homepage": "https://github.com/MilitPanchasara/trial#readme",
+  "homepage": "https://github.com/MilitPanchasara/test",
   "devDependencies": {
     "lite-server": "^2.5.4"
   }
